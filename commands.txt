@@ -1,0 +1,5 @@
+
+ng new “my-new-angular-app”
+You can also use the ng init command. The difference between ng init and ng new is that ng new requires you to specify the folder name and it will create a folder copying the files while ng init will copy the files to the current folder.
+
+Now, you can cd into the created folder. To get a quick preview of your app inside the browser, use the serve command use ng serve
